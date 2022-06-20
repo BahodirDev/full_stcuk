@@ -1,0 +1,35 @@
+.filterByMount{
+    height: 25vh;
+    margin: 10px 0;
+    width: 100%;
+}
+.filterByMount input{
+    /* border: none; */
+    background-color: rgba(255, 255, 255, 0.185);
+    resize: none;
+    outline: none;
+}
+.select{
+    background-color: transparent;
+    resize: none;
+    outline: none;
+    color:rgb(23, 62, 162);
+}
+
+#filterHand{
+    height: 10vh;
+}
+.filters{
+    background: rgb(216, 201, 201);
+}
+
+@media (max-width:650px) {
+    #search_position{
+        display: grid;
+        grid-column: auto;
+    }
+    #search_filter{
+        margin-top: 10px;
+        padding-top: 10px;
+    }
+}

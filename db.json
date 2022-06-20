@@ -1,0 +1,125 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Telefon",
+      "desc": "Sotiladi",
+      "price": 120000,
+      "category": "mobile",
+      "img": "https://www.google.com/imgres?imgurl=https%3A%2F%2Foasis.opstatics.com%2Fcontent%2Fdam%2Foasis%2Fpage%2F2021%2Foperation%2F1217%2Fhomepage%2Fmo%2F02-OnePlus-9.jpg&imgrefurl=https%3A%2F%2Fwww.oneplus.com%2F&tbnid=_0wb33pnmp4FaM&vet=12ahUKEwinuInv0c32AhXIwCoKHYzZBZMQMygDegUIARC9AQ..i&docid=uaz3I5IaH_HCZM&w=1080&h=660&q=mobile&ved=2ahUKEwinuInv0c32AhXIwCoKHYzZBZMQMygDegUIARC9AQ"
+    },
+    {
+      "id": 2,
+      "title": "Telefon",
+      "desc": "Sotiladi",
+      "price": 120000,
+      "category": "mobile",
+      "img": "https://www.google.com/imgres?imgurl=https%3A%2F%2Foasis.opstatics.com%2Fcontent%2Fdam%2Foasis%2Fpage%2F2021%2Foperation%2F1217%2Fhomepage%2Fmo%2F02-OnePlus-9.jpg&imgrefurl=https%3A%2F%2Fwww.oneplus.com%2F&tbnid=_0wb33pnmp4FaM&vet=12ahUKEwinuInv0c32AhXIwCoKHYzZBZMQMygDegUIARC9AQ..i&docid=uaz3I5IaH_HCZM&w=1080&h=660&q=mobile&ved=2ahUKEwinuInv0c32AhXIwCoKHYzZBZMQMygDegUIARC9AQ"
+    },
+    {
+      "id": 3,
+      "title": "Telefon",
+      "desc": "Sotiladi",
+      "price": 120000,
+      "category": "mobile",
+      "img": "https://www.google.com/imgres?imgurl=https%3A%2F%2Foasis.opstatics.com%2Fcontent%2Fdam%2Foasis%2Fpage%2F2021%2Foperation%2F1217%2Fhomepage%2Fmo%2F02-OnePlus-9.jpg&imgrefurl=https%3A%2F%2Fwww.oneplus.com%2F&tbnid=_0wb33pnmp4FaM&vet=12ahUKEwinuInv0c32AhXIwCoKHYzZBZMQMygDegUIARC9AQ..i&docid=uaz3I5IaH_HCZM&w=1080&h=660&q=mobile&ved=2ahUKEwinuInv0c32AhXIwCoKHYzZBZMQMygDegUIARC9AQ"
+    },
+    {
+      "id": 4,
+      "title": "Telefon",
+      "desc": "Sotiladi",
+      "price": 120000,
+      "category": "mobile",
+      "img": "https://www.google.com/imgres?imgurl=https%3A%2F%2Foasis.opstatics.com%2Fcontent%2Fdam%2Foasis%2Fpage%2F2021%2Foperation%2F1217%2Fhomepage%2Fmo%2F02-OnePlus-9.jpg&imgrefurl=https%3A%2F%2Fwww.oneplus.com%2F&tbnid=_0wb33pnmp4FaM&vet=12ahUKEwinuInv0c32AhXIwCoKHYzZBZMQMygDegUIARC9AQ..i&docid=uaz3I5IaH_HCZM&w=1080&h=660&q=mobile&ved=2ahUKEwinuInv0c32AhXIwCoKHYzZBZMQMygDegUIARC9AQ"
+    },
+    {
+      "id": 5,
+      "title": "Telefon",
+      "desc": "Sotiladi",
+      "price": 120000,
+      "category": "mobile",
+      "img": "https://www.google.com/imgres?imgurl=https%3A%2F%2Foasis.opstatics.com%2Fcontent%2Fdam%2Foasis%2Fpage%2F2021%2Foperation%2F1217%2Fhomepage%2Fmo%2F02-OnePlus-9.jpg&imgrefurl=https%3A%2F%2Fwww.oneplus.com%2F&tbnid=_0wb33pnmp4FaM&vet=12ahUKEwinuInv0c32AhXIwCoKHYzZBZMQMygDegUIARC9AQ..i&docid=uaz3I5IaH_HCZM&w=1080&h=660&q=mobile&ved=2ahUKEwinuInv0c32AhXIwCoKHYzZBZMQMygDegUIARC9AQ"
+    },
+    {
+      "id": 6,
+      "title": "Telefon",
+      "desc": "Sotiladi",
+      "price": 120000,
+      "category": "mobile",
+      "img": "https://www.google.com/imgres?imgurl=https%3A%2F%2Foasis.opstatics.com%2Fcontent%2Fdam%2Foasis%2Fpage%2F2021%2Foperation%2F1217%2Fhomepage%2Fmo%2F02-OnePlus-9.jpg&imgrefurl=https%3A%2F%2Fwww.oneplus.com%2F&tbnid=_0wb33pnmp4FaM&vet=12ahUKEwinuInv0c32AhXIwCoKHYzZBZMQMygDegUIARC9AQ..i&docid=uaz3I5IaH_HCZM&w=1080&h=660&q=mobile&ved=2ahUKEwinuInv0c32AhXIwCoKHYzZBZMQMygDegUIARC9AQ"
+    },
+    {
+      "id": 7,
+      "title": "Telefon",
+      "desc": "Sotiladi",
+      "price": 120000,
+      "category": "mobile",
+      "img": "https://www.google.com/imgres?imgurl=https%3A%2F%2Foasis.opstatics.com%2Fcontent%2Fdam%2Foasis%2Fpage%2F2021%2Foperation%2F1217%2Fhomepage%2Fmo%2F02-OnePlus-9.jpg&imgrefurl=https%3A%2F%2Fwww.oneplus.com%2F&tbnid=_0wb33pnmp4FaM&vet=12ahUKEwinuInv0c32AhXIwCoKHYzZBZMQMygDegUIARC9AQ..i&docid=uaz3I5IaH_HCZM&w=1080&h=660&q=mobile&ved=2ahUKEwinuInv0c32AhXIwCoKHYzZBZMQMygDegUIARC9AQ"
+    },
+    {
+      "id": 8,
+      "title": "Telefon",
+      "desc": "Sotiladi",
+      "price": 120000,
+      "category": "mobile",
+      "img": "https://www.google.com/imgres?imgurl=https%3A%2F%2Foasis.opstatics.com%2Fcontent%2Fdam%2Foasis%2Fpage%2F2021%2Foperation%2F1217%2Fhomepage%2Fmo%2F02-OnePlus-9.jpg&imgrefurl=https%3A%2F%2Fwww.oneplus.com%2F&tbnid=_0wb33pnmp4FaM&vet=12ahUKEwinuInv0c32AhXIwCoKHYzZBZMQMygDegUIARC9AQ..i&docid=uaz3I5IaH_HCZM&w=1080&h=660&q=mobile&ved=2ahUKEwinuInv0c32AhXIwCoKHYzZBZMQMygDegUIARC9AQ"
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "id": 12
+    },
+    {
+      "id": 13
+    },
+    {
+      "id": 14
+    },
+    {
+      "id": 15
+    },
+    {
+      "id": 16
+    },
+    {
+      "id": 17
+    },
+    {
+      "id": 18
+    },
+    {
+      "id": 19
+    },
+    {
+      "id": 20
+    },
+    {
+      "id": 21
+    },
+    {
+      "id": 22
+    },
+    {
+      "id": 27,
+      "title": "",
+      "desc": "",
+      "price": "",
+      "category": ""
+    },
+    {
+      "id": 980,
+      "title": "asdfgcfd",
+      "desc": "szdxfccfds",
+      "price": "2344321",
+      "category": "Mobil"
+    }
+  ],
+  "filters": []
+}

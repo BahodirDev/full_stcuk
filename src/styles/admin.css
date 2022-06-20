@@ -1,0 +1,11 @@
+
+
+@media (max-width:650px) {
+    .adminPanel{
+        display: grid;
+        grid-column: auto;
+      padding: 22%;
+      
+    }
+   
+}

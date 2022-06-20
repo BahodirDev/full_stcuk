@@ -1,0 +1,38 @@
+
+
+
+
+.img_box Zoom, img{
+    width: 95%;
+}
+@media (max-width:400px) {
+.img_box .img{
+    width: 95%;
+    margin-top: 10vh;
+}
+.hashTag_box{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(100%,1fr));
+    gap: 1rem;
+}
+.desc{
+    background: #E8DBFC;
+    margin-top: 20px;
+    border-radius: 12px;
+    min-height: 5vh;
+    align-items: center;
+}
+.hashTag{
+    margin-top: 15px;
+    font-size: 15px;
+}
+.f_c3{
+    border-bottom: 1px solid rgb(255, 255, 255);
+    font-size: 15px;
+
+}
+}
+
+
+
+

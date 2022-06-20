@@ -1,0 +1,303 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+.card_b{
+  /* padding-top: 20% 0px; */
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+/*  main */
+.main{
+  min-height: calc(100vh - 74px);
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px,1fr));
+  gap: 1rem;
+}
+
+ .img-fluid{
+    width: 90%;
+}
+
+@media (min-width:460px){
+  .content_list{
+    padding: 5px;
+    /* width: 5rem; */
+    margin: 5px;
+  }
+  .img_div{
+    max-height:150px ;
+    margin: 5px;
+    border-radius: 5%;
+  }
+ 
+ 
+  .card_b{
+    margin-top: 20px;
+    color:rgba(255, 255, 255, 0.563);
+    flex-grow: 1;
+  }
+}
+
+ .img_div img{
+    border-radius: 12px;
+   }
+
+
+.content_list{
+  padding: 5px;
+  /* width: 15rem; */
+  margin: 5px;
+  height: 450px;
+}
+
+.card_b{
+  margin-top: 2rem;
+  /* background: rgba(255, 255, 255, 0.184); */
+  color:rgba(255, 255, 255, 0.563);
+  flex-grow: 1;
+}
+
+/* card_action */
+
+.img_div{
+  height:230px ;
+  padding: 10px 0px;
+  margin: 5px;
+  border-radius: 5%;
+}
+
+/*  Register page */
+.register{
+  min-height: 70vh;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  margin-top: 2rem;
+  padding: 10px 0px;
+  background: #f1f1f1;
+
+}
+.alert{
+  margin-right: 5rem;
+}
+.register input{
+  margin: 10px;
+}
+/* Login page */
+.login{
+  min-height: 70vh;
+  align-items: center;
+  margin-top: 2rem;
+  padding: 20px 0px;
+  background: #f1f1f1;
+}
+.login label{
+  padding: 10px;
+}
+/* Info page */
+#info_btn{
+  position: fixed;
+  bottom: 4rem;
+  right: 2rem;
+
+}
+
+
+#DetailImg{
+  width: 500px;
+}
+
+@media(min-width:700px){
+  .description{
+    background: rgb(115, 214, 215); 
+     min-height:40vh;
+    min-width:300px;
+    background:'#eee';
+    padding:10px;
+    color:#ecf0f7;
+    display: block;
+  }
+}
+
+/* media bilan ishlash zarur */
+@media (max-width:360px){
+
+  #textB{
+    padding: 0px;
+    background: red;
+    width: 100%;
+    margin: 0px;
+  }
+  #info_detail{
+    text-align: left;
+    padding: 10px;
+    
+  }
+  .f_c,.f_c2{
+    color: rgb(90, 7, 20);
+   font-size:x-small;
+   width: 120px;
+   margin: 0px;
+  }
+#DetailImg{
+  width:130px;
+  margin:  0 auto;
+}
+.mains{
+  width: 100%;
+  background: rgb(29, 17, 139);
+ 
+}
+
+
+.description{
+  min-height:10vh;
+  max-width:120px;
+  background:#eee;
+  padding:5px;
+  display: block;
+}
+
+#info_detail div{
+  padding:5px;
+}
+/* end */
+}
+
+
+
+.mains{
+  min-height: 100vh;
+  padding: 40px;
+}
+#info_detail{
+  text-align: left;
+  padding: 30px;
+  
+}
+.f_c2{
+  color:rgb(253, 253, 253);
+  border-bottom: 1px solid #ffff ;
+  padding: 10px;
+}
+.f_c{
+  color:rgb(253, 253, 253);
+  border-bottom: 1px solid #ffff ;
+  width: 30%;
+  padding: 10px;
+}
+.br{
+  border-radius:10px;
+}
+#info_detail div{
+  padding: 20px;
+}
+
+/* Admin page */
+.admin_page{
+  min-height: 10vh; 
+
+}
+.item_all{
+  display: flex;
+  justify-content: space-between;
+  /* margin: 5px; */
+  padding: 10px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid red;
+  background: linear-gradient(to left , #3273db,#6197ed);
+  align-items:center;
+
+}
+.btn_abs{
+  position: fixed;
+  bottom: 4rem;
+  z-index: 12;
+  left: 1.5rem;
+  background: unset;
+
+}
+#unAllowed{
+  border:1px solid red;
+  padding:8px;
+  background:pink;
+  border-radius:10px;
+}
+#Allowed{
+  border:1px solid blue;
+  padding:8px;
+  background: rgb(118, 161, 241);
+  border-radius:10px;
+}
+/* Liked details */
+.liked{
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* Content list */
+.heart{
+  cursor: pointer;
+  color:red;
+  /* border:1px solid red; */
+}
+.heart_x{
+  cursor: pointer;
+}
+.star{
+  cursor: pointer;
+  color: #eeff00;
+  background: rgb(241, 237, 237);
+}
+.c_icons{
+  margin: 10px;
+  display: flex;
+  justify-content: left;
+}
+/* Search page */
+#search_position{
+  display: flex;
+  justify-content:space-between;
+  align-items:center;
+  margin: 4px 0px;
+  padding: 0px 20px;
+  border-bottom: 1px solid rgb(255, 255, 255);
+  color:#ecf0f7;
+}
+.img_search img{
+  width: 150px;
+  padding: 10px;
+  border-radius:12%;
+}

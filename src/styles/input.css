@@ -1,0 +1,21 @@
+#data_item div{
+    margin-top: 10px;
+}
+#data_item2 div{
+    margin-top: 10px;
+    padding: 10px;
+
+}
+#from_area{
+    background: rgb(95, 116, 237);
+    border-radius: 10px ;
+    min-height: 100vh;
+    padding: 12px 0px;
+    border:  2px solid rgba(3, 118, 120, 0.544);
+    box-shadow: inset 3px 3px 12px rgb(91, 16, 125) ;
+}
+.option{
+    background: rgb(70, 88, 185);
+    color: #f1f1f1;
+      
+}
